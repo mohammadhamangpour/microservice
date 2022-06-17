@@ -2,9 +2,6 @@ you should create "/opt/data/media/" directory in your linux system and add r+w 
 
 
 run:
-1- eureka = naming server
-2- api-gateway
-3-upload or download = not matter
 
 you can upload your picture with upload servcie and get list of file URL for download from download service
 
