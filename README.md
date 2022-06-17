@@ -8,6 +8,6 @@ run:
   
 you can upload your picture with upload servcie and get list of file URL for download from download service
 
-get pictures list = baseUrl:8225/ags/DS/images
+get pictures list = baseUrl:8225/DS/images
 
 but first you have to import or upload picture in "/opt/data/media/" directory
